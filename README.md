@@ -9,3 +9,4 @@ Wamp Server Installed (Running).
 
 Create database  "caddey"  and three tables "sale" , "users" and "stock".
 "# Billing" 
+"# billing1" 
